@@ -7,3 +7,5 @@
 or here:
 
     https://ng-course-recipe-book-637e9.firebaseapp.com
+
+I also wrote a step by step guide found in the DOCUMENTATIE.txt 
