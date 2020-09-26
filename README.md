@@ -2,8 +2,8 @@
 
   For the Db and deploy I used firebase, with which the website can be accessed here:
   
-    ng-course-recipe-book-637e9.web.app
+    https://ng-course-recipe-book-637e9.web.app
     
 or here:
 
-    ng-course-recipe-book-637e9.firebaseapp.com
+    https://ng-course-recipe-book-637e9.firebaseapp.com
